@@ -1,0 +1,9 @@
+# Ignorar arquivos compilados do Maven
+target/
+*.war
+*.ear
+*.jar
+
+
+# Ignorar logs e arquivos temporários
+*.log
